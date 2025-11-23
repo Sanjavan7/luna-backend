@@ -142,7 +142,7 @@ User Agreement → Booking Request → Agent Processing → External APIs (mock)
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/luna-backend.git
+git clone https://github.com/Sanjavan7/luna-backend.git
 cd luna-backend
 
 # Create virtual environment
