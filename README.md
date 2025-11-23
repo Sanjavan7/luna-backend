@@ -1,5 +1,5 @@
-# luna-backend
-# Luna Backend - AI-Powered Social Venue Discovery
+# Luna Social-backend
+# Luna Backend - Intelligent Social Venue Discovery
 
 > **Track 2: Backend Development**  
 > Recommendation Engine & Automated Booking Agent
@@ -326,7 +326,7 @@ Submission Date: November 23, 2025
 
 ## Submission
 
-- **Demo Video**: [YouTube link - ]
+- **Demo Video**: [YouTube link - https://youtu.be/SRihUJomJ9k]
 ---
 
 Built for Luna Social!

@@ -21,7 +21,7 @@ def root():
     return {
         "message": "🌙 Luna Backend API - Social Venue Discovery Platform",
         "version": "1.0.0",
-        "description": "AI-powered recommendations and automated bookings",
+        "description": "Intelligent Social Venue Discovery",
         "endpoints": {
             "users": "GET /users - List all users",
             "venues": "GET /venues - List all venues",
